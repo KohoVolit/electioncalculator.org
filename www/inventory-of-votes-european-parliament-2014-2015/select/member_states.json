@@ -1,0 +1,227 @@
+{
+    "de": {
+        "population": "81305856",
+        "name": "Germany",
+        "code": "de",
+        "longitude": "9",
+        "latitude": "51",
+        "another_name:original_name": "Deutschland"
+    },
+    "es": {
+        "population": "47042984",
+        "name": "Spain",
+        "code": "es",
+        "longitude": "-4",
+        "latitude": "40",
+        "another_name:original_name": "España"
+    },
+    "sk": {
+        "population": "5483088",
+        "name": "Slovakia",
+        "code": "sk",
+        "longitude": "19.5",
+        "latitude": "48.6666666667",
+        "another_name:original_name": "Slovensko"
+    },
+    "hr": {
+        "population": "4480043",
+        "name": "Croatia",
+        "code": "hr",
+        "longitude": "15.5",
+        "latitude": "45.1666666667",
+        "another_name:original_name": "Hrvatska"
+    },
+    "cz": {
+        "population": "10177300",
+        "name": "Czech Republic",
+        "code": "cz",
+        "longitude": "15.5",
+        "latitude": "49.75",
+        "another_name:original_name": "Česká republika"
+    },
+    "ro": {
+        "population": "21848504",
+        "name": "Romania",
+        "code": "ro",
+        "longitude": "25",
+        "latitude": "46",
+        "another_name:original_name": "România "
+    },
+    "bg": {
+        "population": "7037935",
+        "name": "Bulgaria",
+        "code": "bg",
+        "longitude": "25",
+        "latitude": "43",
+        "another_name:original_name": "България"
+    },
+    "at": {
+        "population": "8219743",
+        "name": "Austria",
+        "code": "at",
+        "longitude": "13.3333333333",
+        "latitude": "47.3333333333",
+        "another_name:original_name": "Österreich"
+    },
+    "it": {
+        "population": "61261254",
+        "name": "Italy",
+        "code": "it",
+        "longitude": "12.8333333333",
+        "latitude": "42.8333333333",
+        "another_name:original_name": "Italia"
+    },
+    "cy": {
+        "population": "1138071",
+        "name": "Cyprus",
+        "code": "cy",
+        "longitude": "33",
+        "latitude": "35",
+        "another_name:original_name": "Κύπρος"
+    },
+    "lu": {
+        "population": "509074",
+        "name": "Luxembourg",
+        "code": "lu",
+        "longitude": "6.1666666667",
+        "latitude": "49.75",
+        "another_name:original_name": "Luxembourg"
+    },
+    "mt": {
+        "population": "409836",
+        "name": "Malta",
+        "code": "mt",
+        "longitude": "14.5833333333",
+        "latitude": "35.8333333333",
+        "another_name:original_name": "Malta"
+    },
+    "dk": {
+        "population": "5543453",
+        "name": "Denmark",
+        "code": "dk",
+        "longitude": "10",
+        "latitude": "56",
+        "another_name:original_name": "Danmark"
+    },
+    "nl": {
+        "population": "16730632",
+        "name": "Netherlands",
+        "code": "nl",
+        "longitude": "5.75",
+        "latitude": "52.5",
+        "another_name:original_name": "Nederland"
+    },
+    "be": {
+        "population": "10438353",
+        "name": "Belgium",
+        "code": "be",
+        "longitude": "4",
+        "latitude": "50.8333333333",
+        "another_name:original_name": "Belgique/België"
+    },
+    "ee": {
+        "population": "1274709",
+        "name": "Estonia",
+        "code": "ee",
+        "longitude": "26",
+        "latitude": "59",
+        "another_name:original_name": "Eesti"
+    },
+    "fr": {
+        "population": "65630692",
+        "name": "France",
+        "code": "fr",
+        "longitude": "2",
+        "latitude": "46",
+        "another_name:original_name": "France"
+    },
+    "se": {
+        "population": "9103788",
+        "name": "Sweden",
+        "code": "se",
+        "longitude": "15",
+        "latitude": "62",
+        "another_name:original_name": "Sverige"
+    },
+    "lt": {
+        "population": "3525761",
+        "name": "Lithuania",
+        "code": "lt",
+        "longitude": "24",
+        "latitude": "56",
+        "another_name:original_name": "Lietuva"
+    },
+    "hu": {
+        "population": "9958453",
+        "name": "Hungary",
+        "code": "hu",
+        "longitude": "20",
+        "latitude": "47",
+        "another_name:original_name": "Magyarország"
+    },
+    "gb": {
+        "population": "63047162",
+        "name": "United Kingdom",
+        "code": "gb",
+        "longitude": "-2",
+        "latitude": "54",
+        "another_name:original_name": "United Kingdom"
+    },
+    "lv": {
+        "population": "2191580",
+        "name": "Latvia",
+        "code": "lv",
+        "longitude": "25",
+        "latitude": "57",
+        "another_name:original_name": "Latvija"
+    },
+    "pl": {
+        "population": "38415284",
+        "name": "Poland",
+        "code": "pl",
+        "longitude": "20",
+        "latitude": "52",
+        "another_name:original_name": "Polska"
+    },
+    "si": {
+        "population": "1996617",
+        "name": "Slovenia",
+        "code": "si",
+        "longitude": "14.8166666667",
+        "latitude": "46.1166666667",
+        "another_name:original_name": "Slovenija"
+    },
+    "ie": {
+        "population": "4722028",
+        "name": "Ireland",
+        "code": "ie",
+        "longitude": "-8",
+        "latitude": "53",
+        "another_name:original_name": "Éire/Ireland"
+    },
+    "gr": {
+        "population": "10767827",
+        "name": "Greece",
+        "code": "gr",
+        "longitude": "22",
+        "latitude": "39",
+        "another_name:original_name": "Ελλάδα"
+    },
+    "pt": {
+        "population": "10781459",
+        "name": "Portugal",
+        "code": "pt",
+        "longitude": "-8",
+        "latitude": "39.5",
+        "another_name:original_name": "Portugal"
+    },
+    "fi": {
+        "population": "5262930",
+        "name": "Finland",
+        "code": "fi",
+        "longitude": "26",
+        "latitude": "64",
+        "another_name:original_name": "Suomi/Finland"
+    }
+}
+

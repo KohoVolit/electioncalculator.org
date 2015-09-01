@@ -1,0 +1,85 @@
+// this is an example, not to be used directly
+{ 
+"language": "cs",
+"locale": "cs_CZ",  //used for fb
+"home": "http://volebnikalkulacka.cz",
+"directory": "poslanecka-snemovna-2013",
+"name": "Election calculator 2013",       //for frontpage (<7 words)
+"description": "Match with the candidating parties",          //for frontpage (<10 words)
+"vaa_type": "3",        //3 or 5; answers Yes/No/Dontknow vs. Yes/RatherYes/DontKnow/RatherNo/No
+"google_analytics_code": "UA-8592359-7",
+"logo": "image/cz_en.png"
+
+
+//0th page - explaining the VAA
+"zero_page": {
+    "show": true,
+    "header": "Header",
+    "description": "Description..."
+},
+
+//common for every page
+"page": {
+    "logo_right": "image/kohovolit-logo-dark-small.png",
+    "link_right": "http://kohovolit.eu",
+    "logo_left": "image/partner.png",
+    "link_left": "http://example.com",
+    "header": "Czech Election Calculator 2013",
+    "color": {
+        "header": "#112233",
+        "footer": "#888",
+        "progressbar": "blue",
+        "progressbar_background": "white",
+        "progressbar_around": "white",
+        "background": "white",
+        "question_background": "white",
+        "question_text": "black",
+    }
+},
+
+//results
+
+"result": {
+    "description": "<strong>Click on a party</strong> and get more details and information:",
+    "filter_placeholder": "Find party...",
+    "big_picture": "square", //square (logo) or rectangle (photo)
+    "item_show_external_link": false,
+    "show_no_answer": true,
+    "no_answer_text": "Following parties <strong>have not yet answered</strong>:",
+
+
+    //footer - lower banner
+    "footer": "<a href='/support'>Support “Volební kalkulačka” to keep it independent: Send an SMS to <strong>87777</strong> with the following text: DMS KOHOVOLIT or DMS ROK KOHOVOLIT (charge of 30Kč, or 12x30Kč)</a>",
+
+    //facebook
+    "facebook": {
+        "name" : "My best match in Czech VAA",
+        "action_name": "Who to vote for",
+        "description_1": "My best match in the Czech VAA:",
+        "description_2": ".Find out who is your best match on VolebniKalkulacka.cz",
+        "number_first": 3,
+        "number_last": 1,
+        "page": "http://www.facebook.com/KohoVolit.eu"
+    },
+
+    //twitter
+    "twitter": {
+        "text_1": "Czech VAA:my best match:",
+        "text_2": ",least",
+        "text_3": " #volby",
+        "number_first": 2,
+        "number_last": 1,
+        "via": "KohoVolitEU"
+    },
+
+    //include calc
+    "include_calc": {
+        "text": "Vložte kód HTML (standardní Inventura hlasování):",
+        "description": "V <a href='/embed' data-ajax='false'>detailním výběru kalkulaček</a> si můžete vybrat jakou kalkulačku vložit (Inventura, Volební kalkulačka) i její velikost (standardní, mobilní)"
+    },
+
+    //lower part
+    "lower_part": "<div style='margin-left: auto;margin-right: auto;max-width: 500px;color:#888;text-align:center;padding-bottom:1em;'><a href='../../poslanecka-snemovna-2013/?key=inventura' data-role='button' data-theme='s' data-icon='arrow-r' data-iconpos='right'  data-ajax='false'>Jak se kandidující strany s Vámi shodnou zjistíte ve <div style='font-size:1.2em'>Volební kalkulačce 2013</div> </a></div>"
+}
+
+}
