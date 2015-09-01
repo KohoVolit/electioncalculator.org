@@ -58,8 +58,8 @@
             "winner": "name"
         },
         "table": {
-            "picture": "party_logo",
-            "picture_width": "80",
+            "picture": "picture",
+            "picture_width": "63",
             "picture_height": "80",
             "picture_alt": "name",
             "picture_title": "name",

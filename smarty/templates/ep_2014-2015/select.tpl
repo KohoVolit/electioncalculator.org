@@ -43,3 +43,8 @@
         <script src="map.js"></script>    
     {/block}
 
+{block name=footer}
+    <!-- footer -->
+      {include "page-footer.tpl"}
+      <!-- /footer -->
+{/block}
