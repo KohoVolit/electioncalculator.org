@@ -43,10 +43,12 @@ result_eu,Wyniki z całej Unii Europejskiej
 loading,Obliczanie
 result_support,"<strong>Support independent Election Calculators.</strong><br/>  Send an SMS to&nbsp;number&nbsp;<strong><span class='colorstrong'>87777</span></strong> with&nbsp;this text: <strong><spanclass='colorstrong'>DMS&nbsp;KOHOVOLIT</span></strong> (costs €1, out of which €0.9 goes to  KohoVolit.eu) or this text: <strong><span class='colorstrong'>DMS&nbsp;ROK&nbsp;KOHOVOLIT</span></strong> (sends 1 SMS each month for 1 year)"
 result_comparison,Porównanie
-result_close,Blisko
+result_close,Zamknąć
 result_yes,Tak
 result_no,Nie
 result_question,Kwestia
 result_save_description,Ten link umożliwi Ci powrót do twoich odpowiedzi:
 me,Ja
 select_member_state,Wybierz swoje państwo z listy albo zaznacz na mapie:
+document_in_parliament,Dokument w Sejme
+document_at_mpw,Głosowanie na MamPrawoWiedziec.pl

@@ -6,8 +6,16 @@
                       <h2 class="question-question">{$question->question}</h2>
                       <div class="question-description">{$question->description}</div>
                       <div class="question-links row">
-                        <div class="col-sm-6">
-                          <a href="{$question->link}{$lang}" target="_blank"><i class="fa fa-external-link"></i> {$t['vote_event_in_ep']}</a>
+                        <div class="col-sm-4">
+                          {if ({$question->document_link} != "")}
+                          <a href="{$question->document_link}" target="_blank"><i class="fa fa-external-link"></i> {$t['document_in_parliament']}</a>
+                          {/if}
+                        </div>
+                        <div class="col-sm-4"></div>
+                        <div class="col-sm-4">
+                          {if ({$question->mpw_link} != "")}
+                          <a href="{$question->mpw_link}" target="_blank"><i class="fa fa-external-link"></i> {$t['document_at_mpw']}</a>
+                          {/if}
                         </div>
                       </div>
                     </div> <!-- /.i-question -->

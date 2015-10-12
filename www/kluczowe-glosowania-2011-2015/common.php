@@ -23,7 +23,6 @@ $smarty->setTemplateDir($relative_path . '../../smarty/templates/' . $settings->
 $smarty->setCompileDir($relative_path . '../../smarty/templates_c');
 
 $smarty->assign('lang', $lang);
-$smarty->assign('cc', $cc);
 $smarty->assign('t',$t);
 $smarty->assign('settings',$settings);
 
