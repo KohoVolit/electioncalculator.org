@@ -6,8 +6,7 @@
         "language": "pl"
     },
     "languages": [
-        "en",
-        "pl"
+           "pl"
     ],
     "cdn_domain": "http://electioncalculator-1d3d.kxcdn.com/",
     "cdn_domain_": "http://localhost/michal/project/electioncalculator.org/www/",
