@@ -9,8 +9,8 @@
         "en",
         "pl"
     ],
-    "cdn_domain_": "http://volebnikalkulacka-1d3d.kxcdn.com/",
-    "cdn_domain": "http://localhost/michal/project/electioncalculator.org/www/",
+    "cdn_domain": "http://electioncalculator-1d3d.kxcdn.com/",
+    "cdn_domain_": "http://localhost/michal/project/electioncalculator.org/www/",
     "match": {
         "winner": {
             "name": "name",
