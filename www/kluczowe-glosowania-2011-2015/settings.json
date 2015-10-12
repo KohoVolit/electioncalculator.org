@@ -27,7 +27,7 @@
         },
         "table": {
             "picture": "party_picture",
-            "picture_width": "63",
+            "picture_width": "80",
             "picture_height": "80",
             "picture_alt": "name",
             "picture_title": "name",
