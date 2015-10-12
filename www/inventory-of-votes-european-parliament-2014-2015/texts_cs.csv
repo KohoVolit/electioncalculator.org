@@ -13,7 +13,8 @@ year,2015
 footer_text,"Volební kalkulačky pro Vás již od roku 2006 vytváří sdružení <a href='http://kohovolit.eu'>KohoVolit.eu</a>"
 ie8,Aplikace požaduje Internet Explorer vyšší verze než 8
 opera11,Aplikace požaduje prohlížeč Opera vyšší verze než 11
-google_analytics_code,UA-8592359-7
+google_analytics_code,UA-8592359-27
+yandex_metrica_code,32980694
 calc_name,Inventura hlasování - Evropský parlament 2014-2015
 page_question_yes,ANO
 page_question_no,NE
@@ -26,7 +27,7 @@ page_important_results,Výsledky
 vote_event_in_ep,Dokument a hlasování v EP
 match_save,Uložit svoje hlasování
 result_winner_share,Sdílej výsledky na Facebooku 
-result_fb_appid,200785490055088
+result_fb_appid,1504307909863276
 result_fb_picture_link,http://volebnikalkulacka.cz/evropsky-parlament-2014/image/logo
 result_fb_name,V Inventuře hlasování EP mám nejvyšší shodu:
 result_fb_description_1,"Dle Inventury hlasování 2014-2015 mě v Europarlamentu reprezentuje: "

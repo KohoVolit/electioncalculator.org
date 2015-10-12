@@ -13,7 +13,8 @@ year,2015
 footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, your voting advice application maker since 2006."
 ie8,Application requires IE higher than 8
 opera11,Application requires Opera higher than 11
-google_analytics_code,UA-8592359-7
+google_analytics_code,UA-8592359-27
+yandex_metrica_code,32980694
 calc_name,Inventory of votes - European parliament 2014-2015 
 page_question_yes,YES
 page_question_no,NO
@@ -26,7 +27,7 @@ page_important_results,Results
 vote_event_in_ep,Document and vote event in EP
 match_save,Save your match
 result_winner_share,Share your match on Facebook
-result_fb_appid,200785490055088
+result_fb_appid,1504307909863276
 result_fb_picture_link,http://volebnikalkulacka.cz/evropsky-parlament-2014/image/logo
 result_fb_name,My best match in the Inventory of Votes in EP 2014-2015 is::
 result_fb_description_1,"My best match in the Inventory of Votes of European parliament 2014-2015: "
