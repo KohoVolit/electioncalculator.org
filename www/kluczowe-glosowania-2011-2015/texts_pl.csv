@@ -1,0 +1,52 @@
+code,text
+author,KohoVolit.eu
+description,"Sprawdźcie, z którymi posłami zagłosowalibyście tak samo."
+keywords,"Sejm, test zgodności"
+og:image,http://volebnikalkulacka.cz/image/logo.jpg
+calc,Kluczowe głosowania
+info,Informacje
+url,http://electioncalculator.org
+title,Kluczowe głosowania 
+author_link,http://kohovolit.eu
+licence,Creative Commons BY 4.0
+year,2015
+footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, your voting advice application maker since 2006."
+ie8,Aplikacja wymaga wersji IE nowszej niż 8
+opera11,Aplikacja wymaga wersji Opery nowszej niż 11
+google_analytics_code,UA-8592359-7
+calc_name,Kluczowe głosowania - Parlament Europejski 2014-2015
+page_question_yes,TAK
+page_question_no,NIE
+page_question_neutral,Nie wiem
+page_question_neutral_add,Nie mam zdania
+page_important_questions,Kluczowe głosowania
+page_important_legend,<strong>Wybierz najważniejszy Twoim zdaniem problem</strong>. Otrzymasz wynik bliższy Twoim poglądom. Ten krok nie jest obowiązkowy i możesz go pominąć.
+page_important_skip,Pomiń
+page_important_results,Wyniki
+vote_event_in_ep,Dokument i głosowanie w PE
+match_save,Zapisz swoje odpowiedzi
+result_winner_share,Podziel się na Facebooku
+result_fb_appid,200785490055088
+result_fb_picture_link,http://volebnikalkulacka.cz/evropsky-parlament-2014/image/logo
+result_fb_name,Najbliższym mi europosłem według głosowań kluczowych w Sejme 2014-2015 jest:
+result_fb_description_1,Najbliższym mi europosłem według głosowań kluczowych w Parlamencie Europejskim 2014-2015 jest:
+result_fb_description_match,Jest zgodny z 
+result_fb_description_and,i
+result_fb_description_only,Tylko
+result_fb_description_2,Najdalej Ci do:
+result_fb_description_3,Z którym posłem jesteś najbardziej zgodny/zgodna?
+result_fb_redirect_link,http://electioncalculator.org
+result_fb_link,http://electioncalculator.org
+result_fb_action,"[{'name':'Na kogo powinieneś/powinnać zagłosować?','link':'http://electioncalculator.org'}]/"
+result_results,Wyniki
+result_eu,Wyniki z całej Unii Europejskiej
+loading,Obliczanie
+result_support,"<strong>Support independent Election Calculators.</strong><br/>  Send an SMS to&nbsp;number&nbsp;<strong><span class='colorstrong'>87777</span></strong> with&nbsp;this text: <strong><spanclass='colorstrong'>DMS&nbsp;KOHOVOLIT</span></strong> (costs €1, out of which €0.9 goes to  KohoVolit.eu) or this text: <strong><span class='colorstrong'>DMS&nbsp;ROK&nbsp;KOHOVOLIT</span></strong> (sends 1 SMS each month for 1 year)"
+result_comparison,Porównanie
+result_close,Blisko
+result_yes,Tak
+result_no,Nie
+result_question,Kwestia
+result_save_description,Ten link umożliwi Ci powrót do twoich odpowiedzi:
+me,Ja
+select_member_state,Wybierz swoje państwo z listy albo zaznacz na mapie:

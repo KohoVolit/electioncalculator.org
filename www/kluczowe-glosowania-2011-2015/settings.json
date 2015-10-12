@@ -1,0 +1,39 @@
+{
+    "election_code": "pl_2011-2015",
+    "directory":"kluczowe-glosowania-2011-2015",
+    "template": "pl_2011-2015",
+    "defaults" : {
+        "language": "pl"
+    },
+    "languages": [
+        "en",
+        "pl"
+    ],
+    "cdn_domain_": "http://volebnikalkulacka-1d3d.kxcdn.com/",
+    "cdn_domain": "http://localhost/michal/project/electioncalculator.org/www/",
+    "match": {
+        "winner": {
+            "name": "name",
+            "picture": "picture",
+            "picture_width": "110",
+            "picture_height": "137",
+            "picture_alt": "name",
+            "picture_title": "name"
+        },
+        "fb": {
+            "picture": "picture",
+            "caption": "name",
+            "winner": "name"
+        },
+        "table": {
+            "picture": "party_picture",
+            "picture_width": "63",
+            "picture_height": "80",
+            "picture_alt": "name",
+            "picture_title": "name",
+            "first_row": ["name"],
+            "second_row": ["party"],
+            "third_row": []           
+        }
+    }
+}
