@@ -1,6 +1,6 @@
-code,text
+﻿code,text
 author,KohoVolit.eu
-description,"Sprawdźcie, z którymi posłami zagłosowalibyście tak samo."
+description,"Sprawdźcie, z którymi posłami zagłosowalibyście tak samo"
 keywords,"Sejm, test zgodności"
 og:image,http://volebnikalkulacka.cz/image/logo.jpg
 calc,Kluczowe głosowania
@@ -10,16 +10,16 @@ title,Kluczowe głosowania
 author_link,http://kohovolit.eu
 licence,Creative Commons BY 4.0
 year,2015
-footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, your voting advice application maker since 2006."
+footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, zajmuje się analizą gosowań od 2006 r."
 ie8,Aplikacja wymaga wersji IE nowszej niż 8
 opera11,Aplikacja wymaga wersji Opery nowszej niż 11
 google_analytics_code,UA-8592359-27
 yandex_metrica_code,32980694
-calc_name,Kluczowe głosowania - Parlament Europejski 2014-2015
+calc_name,Kluczowe głosowania w Sejmie VII kadencji 2011-2015
 page_question_yes,TAK
 page_question_no,NIE
-page_question_neutral,Nie wiem
-page_question_neutral_add,Nie mam zdania
+page_question_neutral,Nie mam zdania
+page_question_neutral_add,
 page_important_questions,Kluczowe głosowania
 page_important_legend,<strong>Wybierz najważniejszy Twoim zdaniem problem</strong>. Otrzymasz wynik bliższy Twoim poglądom. Ten krok nie jest obowiązkowy i możesz go pominąć.
 page_important_skip,Pomiń
@@ -51,5 +51,5 @@ result_question,Kwestia
 result_save_description,Ten link umożliwi Ci powrót do twoich odpowiedzi:
 me,Ja
 select_member_state,Wybierz swoje państwo z listy albo zaznacz na mapie:
-document_in_parliament,Dokument w Sejme
-document_at_mpw,Głosowanie na MamPrawoWiedziec.pl
+document_in_parliament,Zobacz ustawę na stronie Sejmu
+document_at_mpw,Zobacz głosowanie na MamPrawoWiedziec.pl
