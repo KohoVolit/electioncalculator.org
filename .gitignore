@@ -1,0 +1,8 @@
+dev/
+dev/*
+smarty/templates_c
+smarty/templates_c/*
+*~lock*
+*result.txt
+*settings.json
+cache/
