@@ -1,6 +1,7 @@
-@media (min-width: 1200px)
-.question-description {
-     font-size: 18px; 
+@media (min-width: 1200px) {
+    .question-description {
+         font-size: 18px; 
+    }
 }
 
 .eu-results {
