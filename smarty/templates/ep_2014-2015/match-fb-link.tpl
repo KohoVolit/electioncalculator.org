@@ -1,6 +1,6 @@
 http://www.facebook.com/dialog/feed?
-    app_id={$t.result_fb_appid}&
-    link={$t.result_fb_redirect_link|escape:'url'}&
+    app_id={$t.fb_appid}&
+    link={$t.fb_redirect_link|escape:'url'}&
     picture={$results[0].{$settings->match->fb->picture}}&
     name={$t.result_fb_name|escape:'url'}&
     caption=%3C-%20{$results[0].{$settings->match->fb->caption}|escape:'url'}&

@@ -3,10 +3,10 @@
 import csv
 import json
 
-appendix = "_hu"
+appendix = "_pl"
 
 data = []
-with open("questions_hu.csv") as fin:
+with open("questions_pl.csv") as fin:
     csvd = csv.DictReader(fin)
     for r in csvd:
         if r['order'].strip() != '':

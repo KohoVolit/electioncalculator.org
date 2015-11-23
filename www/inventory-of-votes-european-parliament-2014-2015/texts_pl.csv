@@ -1,0 +1,56 @@
+code,text
+author,KohoVolit.eu
+description,"Sprawdźcie, z którymi europosłami zagłosowalibyście tak samo."
+keywords,"Parlament Europejski, test zgodności"
+og:image,http://volebnikalkulacka.cz/image/logo.jpg
+calc,Kluczowe głosowania
+info,Informacje
+url,http://volebnikalkulacka.cz
+title,Kluczowe głosowania w PE 
+author_link,http://kohovolit.eu
+licence,Creative Commons BY 4.0
+year,2015
+footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, your voting advice application maker since 2006."
+ie8,Aplikacja wymaga wersji IE nowszej niż 8
+opera11,Aplikacja wymaga wersji Opery nowszej niż 11
+google_analytics_code,UA-8592359-7
+calc_name,Kluczowe głosowania - Parlament Europejski 2014-2015
+page_question_yes,TAK
+page_question_no,NIE
+page_question_neutral,Nie wiem
+page_question_neutral_add,Nie mam zdania
+page_important_questions,Kluczowe głosowania
+page_important_legend,Wybierz najważniejszy Twoim zdaniem problem. Otrzymasz wynik bliższy Twoim poglądom. Ten krok nie jest obowiązkowy i możesz go pominąć.
+page_important_skip,Pomiń
+page_important_results,Wyniki
+vote_event_in_ep,Dokument i głosowanie w PE
+match_save,Zapisz swoje odpowiedzi
+result_winner_share,Podziel się na Facebooku
+result_fb_appid,200785490055088
+result_fb_picture_link,http://volebnikalkulacka.cz/evropsky-parlament-2014/image/logo
+result_fb_name,Najbliższym mi europosłem według głosowań kluczowych w PE 2014-2015 jest:
+result_fb_description_1,Najbliższym mi europosłem według głosowań kluczowych w Parlamencie Europejskim 2014-2015 jest:
+result_fb_description_match,Jest zgodny z 
+result_fb_description_and,i
+result_fb_description_only,Tylko
+result_fb_description_2,Najdalej Ci do:
+result_fb_description_3,Z którym posłem jesteś najbardziej zgodny/zgodna?
+result_fb_redirect_link,http://volebnikalkulacka.cz/
+result_fb_link,http://volebnikalkulacka.cz/
+result_fb_action,Na kogo powinieneś/powinnać zagłosować?
+result_results,Wyniki
+result_eu,Wyniki z całej Unii Europejskiej
+loading,Obliczanie
+result_support,"Wesprzyj Kohovolit.eu
+Wyślij SMS
+KOHOVOLIT
+koszt 1 EUR, z czego 0,9 EUR idzie do KohoVolit.eu
+Wysyłaj 1 SMS każdego miesiąca przez rok"
+result_comparison,Porównanie
+result_close,Blisko
+result_yes,Tak
+result_no,Nie
+result_question,Kwestia
+result_save_description,Ten link umożliwi Ci powrót do twoich odpowiedzi:
+me,Ja
+select_member_state,Wybierz swoje państwo z listy albo zaznacz na mapie:
