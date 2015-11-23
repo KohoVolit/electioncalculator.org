@@ -5,7 +5,7 @@ keywords,"Parlament Europejski, test zgodności"
 og:image,http://volebnikalkulacka.cz/image/logo.jpg
 calc,Kluczowe głosowania
 info,Informacje
-url,http://volebnikalkulacka.cz
+url,http://electioncalculator.org
 title,Kluczowe głosowania w PE 
 author_link,http://kohovolit.eu
 licence,Creative Commons BY 4.0
@@ -17,8 +17,8 @@ google_analytics_code,UA-8592359-7
 calc_name,Kluczowe głosowania - Parlament Europejski 2014-2015
 page_question_yes,TAK
 page_question_no,NIE
-page_question_neutral,Nie wiem
-page_question_neutral_add,Nie mam zdania
+page_question_neutral,Nie mam zdania
+page_question_neutral_add,
 page_important_questions,Kluczowe głosowania
 page_important_legend,Wybierz najważniejszy Twoim zdaniem problem. Otrzymasz wynik bliższy Twoim poglądom. Ten krok nie jest obowiązkowy i możesz go pominąć.
 page_important_skip,Pomiń
@@ -26,7 +26,7 @@ page_important_results,Wyniki
 vote_event_in_ep,Dokument i głosowanie w PE
 match_save,Zapisz swoje odpowiedzi
 result_winner_share,Podziel się na Facebooku
-result_fb_appid,200785490055088
+result_fb_appid,1504307909863280
 result_fb_picture_link,http://volebnikalkulacka.cz/evropsky-parlament-2014/image/logo
 result_fb_name,Najbliższym mi europosłem według głosowań kluczowych w PE 2014-2015 jest:
 result_fb_description_1,Najbliższym mi europosłem według głosowań kluczowych w Parlamencie Europejskim 2014-2015 jest:
