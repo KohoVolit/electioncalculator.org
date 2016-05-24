@@ -1,0 +1,41 @@
+{
+    "election_code": "ep_2014-2015",
+    "directory":"inventory-of-votes-european-parliament-2014-2015",
+    "template": "ep_2014-2015",
+    "defaults" : {
+        "country_code": "cz",
+        "language": "en"
+    },
+    "languages": [
+        "cs",
+        "en",
+        "hu",
+        "pl"
+    ],
+    "cdn_domain": "http://electioncalculator-1d3d.kxcdn.com/",
+    "match": {
+        "winner": {
+            "name": "name",
+            "picture": "picture",
+            "picture_width": "122",
+            "picture_height": "155",
+            "picture_alt": "name",
+            "picture_title": "name"
+        },
+        "fb": {
+            "picture": "picture",
+            "caption": "name",
+            "winner": "name"
+        },
+        "table": {
+            "picture": "picture",
+            "picture_width": "63",
+            "picture_height": "80",
+            "picture_alt": "name",
+            "picture_title": "name",
+            "first_row": ["name"],
+            "second_row": ["party"],
+            "third_row": ["political_group"]
+        }
+    }
+}

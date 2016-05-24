@@ -25,7 +25,7 @@ Election Calculator
 - set up frontpage (`www/index.php` or `www/index.html` manually)
 
 #### App settings
-- basic settings for the new-app are in `www/new-app/settings.json`, correct them
+- basic settings for the new-app are in `www/new-app/settings.json` (or `www/settings_example_new-app.json`), correct them
 - it is possible to rewrite general settings (from `www/local_settings.json`) for whole site by these settings
 
 #### Images
@@ -51,7 +51,7 @@ A questionaire may be set to be shown before the app:
 - set data and texts in `www/new-app/research/data.php`
 - create file `www/new-app/research/research.txt` and set it writable by www server (e.g., chown user:www-data)
 - only subset of question type may be used (see files `smarty/templates/research.tpl` and `smarty/templates/research-(type).tpl`)
-- enable caching: 
+- enable caching:
 
 #### Customization (optional)
 ##### Custom space on result page (below the table)
@@ -60,11 +60,11 @@ Completely custom part (block) may be specified below the results in the file `s
 Custom CSS may be set in `www/new-app/settings.json`
 ##### External customization
 It s possible to customize the calculator (if allowed in `www/new-app/settings.json`), quickly or with whole custom css:
-- `bg`: url-encoded link to background picture 
+- `bg`: url-encoded link to background picture
 (e.g., `http(s)://(server_name)/new-app/?bg=http%3A%2F%2Fexample.com%2Fpicture.jpg`)
-- `navbar`: url-encoded html color of the upper navbar 
+- `navbar`: url-encoded html color of the upper navbar
 (e.g., `http(s)://(server_name)/new-app/?navbar=%23CC00FF` or `?navbar=red`)
-- `css`: url-encoded link to custom css 
+- `css`: url-encoded link to custom css
 (e.g., `http(s)://(server_name)/new-app/?css=http%3A%2F%2Fexample.com%2Fcustom.css`)
 
 #### Caching
