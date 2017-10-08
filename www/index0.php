@@ -11,7 +11,7 @@ $settings = json_decode(file_get_contents('settings.json'));
 //get language
 $lang = lang($settings);
 
-
+echo 'aa';
 
 
 /**
