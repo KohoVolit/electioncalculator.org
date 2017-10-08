@@ -12,7 +12,7 @@
         "hu",
         "pl"
     ],
-    "cdn_domain": "http://electioncalculator-1d3d.kxcdn.com/",
+    "cdn_domain": "http://electioncalculator.azureedge.net/",
     "match": {
         "winner": {
             "name": "name",
