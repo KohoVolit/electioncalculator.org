@@ -16,7 +16,7 @@
 	<meta property="og:site_name" content="Election calculator"/>
 	<meta property="og:type" content="website"/>
 
-    <title>Election calculator 2017</title>
+    <title>Election calculator 2019</title>
 
     <!-- Bootstrap core CSS -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
@@ -74,11 +74,20 @@
 			<div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center" style="padding-top:2em;">
                     <p class="lead">
+                        Inventory of votesfor <strong>European parliament 2014 - 2019</strong>. Compare your opinions with current members of EP on 35 real votes from the parliament.
+                    </p>
+                    <p class="lead">
+                            <a href="en/inventory-of-votes-european-parliament-2014-2019/?hr=<?php if( isset($_SERVER['HTTP_REFERER'])) { $hr=$_SERVER['HTTP_REFERER']; if ($hr!="") {echo base64_encode($hr);} } ?><?php if( isset($_GET['ref'])) { $ref=$_GET['ref']; if ($ref!="") {echo '&ref=' . $ref;} } ?>" class="btn btn-lg btn-success" style="white-space: normal;" >
+                                    LAUNCH INVENTORY OF VOTES 2014-2019
+                            </a>
+
+                    </p>
+                    <!-- <p class="lead">
                         Election calculator for <strong>Czech elections 2017</strong> compares your stands with candidating parties. Online test takes about 5 minutes.
                         <br />
                          <a href="./en/czech-election-2017" class="btn btn-lg btn-success btn-block" style="white-space: normal;" >
                         LAUNCH ELECTION CALCULATOR <strong>IN ENGLISH</strong></a>
-                    </p>
+                    </p> -->
                     <!-- <p class="lead">
 			        Inventory of votes from European Parliament 2014-2015 will show you, which MEPs are <em>really</em> representing you. Online test takes about 5 minutes.
                        <div class="col-md-8 col-md-offset-2">
